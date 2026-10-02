@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="external_import_opening_title">正在打开 flags 文件</string>
+    <string name="external_import_opening_subtitle">GMS Flags 正在准备导入，请稍候</string>
+</resources>
